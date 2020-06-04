@@ -1,0 +1,32 @@
+p {
+  color: black;
+}
+
+.card {
+  background-color: white;
+  width: 350px;
+  margin: 10px;
+}
+
+.employee-card {
+  background-color: rgb(195, 206, 173);
+}
+
+.card-header {
+  background-color: rgb(38, 171, 233);
+}
+
+.list-group-item {
+  color: black;
+}
+
+.jumbotron {
+  background-color: rgb(38, 171, 233);
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+}
