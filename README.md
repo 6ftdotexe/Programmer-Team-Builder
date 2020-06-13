@@ -57,8 +57,6 @@
 
 ## Questions
 
-- Send Questions to Lance Page at LancePage99@gmail.com.
-
 ---
 
 ## License
