@@ -37,7 +37,7 @@
   SO THAT I can Contact my team members easily.
 ```
 
-## ![Team Generator demo](./assets/demo.mp4)
+## ![Team Generator demo](./assets/demo.gif)
 
 ## Contributors
 
